@@ -29,3 +29,9 @@ sysdm.cpl
 ```bash
 ncpa.cpl
 ```
+
+## Get Mac address
+
+```bash
+getmac /v
+```
